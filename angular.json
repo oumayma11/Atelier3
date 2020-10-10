@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Atelier3"
+    }
+  },
+  "defaultProject": "Atelier3",
+  "cli": {
+    "analytics": "729916a9-39e2-429f-ad3a-3d4932e2b1a5"
+  }
 }
